@@ -90,7 +90,7 @@ export function ContactSection() {
             </CardHeader>
             <CardContent>
               <form
-  action="https://formsubmit.co/themobilehomepro@gmail.com"
+  action="https://formsubmit.co/6516e5eb304ca1bb96eaaed8b5488b7a"
   method="POST"
   className="space-y-4"
 >
